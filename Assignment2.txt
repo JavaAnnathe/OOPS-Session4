@@ -1,0 +1,28 @@
+Write a class Animal with following methods
+public void eat(){
+
+System.out.println("Eating");
+}
+
+public void sleep(){
+
+System.out.println("Sleeping");
+}	
+
+Write a class Dog which extends Animal class and it has following method
+
+public void barking(){
+
+System.out.println("barking");
+
+}
+
+Write a class Tiger which extends Animal class and it has following method
+
+public void hunting(){
+
+System.out.println("hunting");
+
+}
+
+Create objects of Animal, Dog and Tiger classes and call their  methods.
